@@ -1,5 +1,5 @@
 package ru.netoligy
 fun main() {
-    println("First App!")
+    println("First-app!")
 }
 
